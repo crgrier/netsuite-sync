@@ -17,7 +17,7 @@ var debug = require('debug')('ns');
 const CONFIG_FILE = 'NetSuiteConfig.js';
 
 
-// configure the command line interface
+// configure the command line interface.  Test
 program
     .version(require('./package.json').version)
     .option('-u, --upload <file>', "Upload file to NetSuite file cabinet")
