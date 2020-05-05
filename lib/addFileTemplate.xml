@@ -1,4 +1,4 @@
-<platformMsgs:add xmlns:s0="urn:filecabinet_2014_2.documents.webservices.netsuite.com">
+<platformMsgs:add xmlns:s0="urn:filecabinet_2020_1.documents.webservices.netsuite.com">
     <platformMsgs:record xsi:type="s0:File">
         <s0:name><%=filename%></s0:name>
         <s0:attachFrom>_computer</s0:attachFrom>
