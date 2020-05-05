@@ -1,5 +1,5 @@
 NS - NetSuite Simple Sync utility
-==============================
+===============================
 This little utility uploads your suitescript files to the NetSuite file cabinet from the command line or as a
  menu item or button in your IDE.
 
