@@ -1,4 +1,4 @@
-<platformMsgs:search xmlns:s0="urn:filecabinet_2013_1.documents.webservices.netsuite.com">
+<platformMsgs:search xmlns:s0="urn:filecabinet_2020_2.documents.webservices.netsuite.com">
     <platformMsgs:searchRecord xsi:type="s0:FileSearchAdvanced">
     <s0:criteria>
     <s0:basic>
